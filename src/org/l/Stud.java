@@ -5,6 +5,10 @@ public class Stud {
 		
 		System.out.println("topperclass");
 	}
+	
+	public void add() {
+System.out.println("hii dude");
+	}
 	public static void main(String[] args) {
 		class1();
 		
